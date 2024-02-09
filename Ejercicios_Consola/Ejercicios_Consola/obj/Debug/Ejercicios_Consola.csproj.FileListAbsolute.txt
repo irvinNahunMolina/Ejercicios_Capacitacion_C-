@@ -1,0 +1,14 @@
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\bin\Debug\Ejercicios_Consola.exe.config
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\bin\Debug\Ejercicios_Consola.exe
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\bin\Debug\Ejercicios_Consola.pdb
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.csproj.AssemblyReference.cache
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.csproj.CoreCompileInputs.cache
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.exe
+C:\Users\IT\OneDrive - PLASTINOVA INDUSTRIAL S.A . DE C.V\Escritorio\C#\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.pdb
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\bin\Debug\Ejercicios_Consola.exe.config
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\bin\Debug\Ejercicios_Consola.exe
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\bin\Debug\Ejercicios_Consola.pdb
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.exe
+C:\Users\IT\Desktop\Ejercicios_Consola\Ejercicios_Consola\obj\Debug\Ejercicios_Consola.pdb
