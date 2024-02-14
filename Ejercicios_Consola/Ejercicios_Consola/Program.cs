@@ -28,7 +28,7 @@ namespace Ejercicios_Consola
             Manejo_Archivo obj_Manejo_Arch = new Manejo_Archivo();
             Amortizacion_Prestamo obj_Amort = new Amortizacion_Prestamo();
             Ahorcado obj_Ahorcado = new Ahorcado();
- 
+
             int selec;
             string[] Menu = { "0-.Salir", "1-.Calculadora Simple", "2-.Tabla Multiplicar", "3-.Pares y Impares", "4-.Factorial", "        5-.Fibonacci     ",
                                 "6-.Numero Primo   ", "7-.Vocales Consonantes", "8-.Conversion Unids", "        9-.Ordenar Lista", "10-.Buscar en Lista",
@@ -43,7 +43,7 @@ namespace Ejercicios_Consola
             int.TryParse(Console.ReadLine(), out selec);
             Console.WriteLine("\n");
 
-            while(selec != 0)
+            while (selec != 0)
             {
                 if (selec == 1)
                 {
@@ -65,7 +65,7 @@ namespace Ejercicios_Consola
                 {
                     obj_fibo.Secu_Fibonacci();
                 }
-                else if(selec == 6)
+                else if (selec == 6)
                 {
                     obj_No_Primo.Numero_Primo();
                 }
@@ -108,7 +108,7 @@ namespace Ejercicios_Consola
                 }
                 int.TryParse(Console.ReadLine(), out selec);
                 Console.WriteLine("\n");
-            }            
+            }
         }
 
 
