@@ -59,7 +59,7 @@ namespace Ejercicios_Consola
                 {
                     Console.Clear();
                     break;
-                }                    
+                }
                 Console.WriteLine("Digite el primer numero: ");
                 num1 = Double.Parse(Console.ReadLine());
                 Console.WriteLine("Digite el segundo numero: ");
@@ -96,11 +96,11 @@ namespace Ejercicios_Consola
             return res;
         }
 
-        void division(Double numero1,Double numero2)
+        void division(Double numero1, Double numero2)
         {
             Double res;
 
-            if(numero2 != 0)
+            if (numero2 != 0)
             {
                 res = numero1 / numero2;
                 Console.WriteLine("Su respuesta es: {0}", res);
