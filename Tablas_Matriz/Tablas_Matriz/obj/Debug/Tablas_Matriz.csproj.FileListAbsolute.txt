@@ -1,0 +1,7 @@
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\bin\Debug\Tablas_Matriz.exe.config
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\bin\Debug\Tablas_Matriz.exe
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\bin\Debug\Tablas_Matriz.pdb
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\obj\Debug\Tablas_Matriz.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\obj\Debug\Tablas_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\obj\Debug\Tablas_Matriz.exe
+C:\Users\IT\Desktop\Tablas_Matriz\Tablas_Matriz\obj\Debug\Tablas_Matriz.pdb
